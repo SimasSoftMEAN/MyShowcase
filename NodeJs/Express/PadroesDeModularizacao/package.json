@@ -1,0 +1,25 @@
+{
+  "name": "padroesdemodularizacao",
+  "version": "1.0.0",
+  "description": "Projeto que mostra, atraves de exemplos, os padroes de modularizao para o NodeJs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasSoftMEAN/MyShowcase.git"
+  },
+  "keywords": [
+    "module",
+    "nodejs",
+    "patterns"
+  ],
+  "author": "Gabriel Simas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SimasSoftMEAN/MyShowcase/issues"
+  },
+  "homepage": "https://github.com/SimasSoftMEAN/MyShowcase#readme"
+}
